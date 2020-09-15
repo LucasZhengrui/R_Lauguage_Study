@@ -1,0 +1,33 @@
+array  	数组
+matrix   矩阵
+output   输出
+element  元素
+vector  向量
+boxplot()
+stemplot()
+summary
+sample 抽样
+rnorm()
+qnorm()
+pnorm()
+distribution 分布
+normal distribution 正态分布
+standard normal distribution 标准正态分布
+standard deviation
+variance
+mean
+median
+maximum  最大值
+minimum  最小值
+compute 计算
+column 列
+row 行
+simulate 模拟
+dataset 数据集
+hypothesis test假设检验
+linear regression 线性回归
+parameter 参数
+analysis of variance 方差分析
+confidence interval 置信区间
+correlation  相关系数
+alternative hypothesis
